@@ -12,6 +12,8 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="3166.1787"
    height="2511.6831"
+   preserveAspectRatio="xMinYMin meet"
+   viewBox="0 0 3166.1787 2511.6831"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
@@ -86,167 +88,212 @@
          transform="matrix(1,0,0,0.95897436,-66.971304,-3926.2902)"
          id="g4938">
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna90"
            width="101"
            height="1950"
            x="-1271.8474"
-           y="1822.6483"
-           inkscape:label="#columna90" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna90.mouseover" end="columna90.mouseout"/>
+        </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna91"
            width="101"
            height="1950"
            x="-1170.8474"
-           y="1822.6483" />
+           y="1822.6483">
+		   <set attributeName="fill-opacity" to="1" begin="columna91.mouseover" end="columna91.mouseout"/>
+        </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna92"
            width="101"
            height="1950"
            x="-1069.8474"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna92.mouseover" end="columna92.mouseout"/>
+        </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna93"
            width="101"
            height="1950"
            x="-968.84741"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna93.mouseover" end="columna93.mouseout"/>
+        </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna94"
            width="101"
            height="1950"
            x="-867.84735"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna94.mouseover" end="columna94.mouseout"/>
+        </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna95"
            width="101"
            height="1950"
            x="-766.84735"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna95.mouseover" end="columna95.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna96"
            width="101"
            height="1950"
            x="-665.84735"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna96.mouseover" end="columna96.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna97"
            width="101"
            height="1950"
            x="-564.84735"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna97.mouseover" end="columna97.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna98"
            width="101"
            height="1950"
            x="-463.84735"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna98.mouseover" end="columna98.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna99"
            width="101"
            height="1950"
            x="-362.84729"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna99.mouseover" end="columna99.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna00"
            width="101"
            height="1950"
            x="-261.84732"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna00.mouseover" end="columna00.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna01"
            width="101"
            height="1950"
            x="-160.84729"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna01.mouseover" end="columna01.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna02"
            width="101"
            height="1950"
            x="-59.847313"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna02.mouseover" end="columna02.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna03"
            width="101"
            height="1950"
            x="41.152702"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna03.mouseover" end="columna03.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna04"
            width="101"
            height="1950"
            x="142.15271"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna04.mouseover" end="columna04.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna05"
            width="101"
            height="1950"
            x="243.15268"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna05.mouseover" end="columna05.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna06"
            width="101"
            height="1950"
            x="344.15268"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna06.mouseover" end="columna06.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna07"
            width="101"
            height="1950"
            x="445.15268"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna07.mouseover" end="columna07.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna08"
            width="101"
            height="1950"
            x="546.15265"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna08.mouseover" end="columna08.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna09"
            width="101"
            height="1950"
            x="647.15271"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna09.mouseover" end="columna09.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna10"
            width="101"
            height="1950"
            x="748.15271"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna10.mouseover" end="columna10.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna11"
            width="101"
            height="1950"
            x="849.15271"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna11.mouseover" end="columna11.mouseout"/>
+           </rect>
         <rect
-           style="fill:#f0e6f0;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           style="fill:#f0e6f0;fill-opacity:0;fill-rule:evenodd;stroke:none"
            id="columna12"
            width="102"
            height="1950"
            x="950.15271"
-           y="1822.6483" />
+           y="1822.6483">
+           <set attributeName="fill-opacity" to="1" begin="columna12.mouseover" end="columna12.mouseout"/>
+           </rect>
       </g>
       <g
          transform="matrix(1,0,0,2.0797574,0,335.81728)"
@@ -433,17 +480,20 @@
            sodipodi:role="line">2010</tspan></text>
       <g
          transform="translate(0,80)"
-         id="grupo-info1">
+         id="grupo-info1"
+         >
         <path
-           style="fill:none;stroke:#828282;stroke-width:1.59877348px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#828282;stroke-width:1.59877348px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
            d="m -884.01956,-2261.1371 197.05314,-333.8954 165.20325,0"
            id="info01-path"
            inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccc" />
+           sodipodi:nodetypes="ccc">
+           <set attributeName="stroke-opacity" to="1" begin="columna94.mouseover" end="columna94.mouseout"/>
+           </path>
         <text
            inkscape:label="info01-text"
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
            x="-510.0611"
            y="-2603.832"
            id="info01-text"
@@ -451,7 +501,9 @@
              sodipodi:role="line"
              id="tspan4130-0-8"
              x="-510.0611"
-             y="-2603.832">Wired publishes article on e-Cash</tspan></text>
+             y="-2603.832">Wired publishes article on e-Cash</tspan>
+          <set attributeName="fill-opacity" to="1" begin="columna94.mouseover" end="columna94.mouseout"/>
+             </text>
       </g>
       <g
          transform="translate(0,39.999258)"
@@ -783,10 +835,9 @@
              width="506"
              id="rect3322"
              style="opacity:0.8;fill:#ffbd00;fill-opacity:1;fill-rule:evenodd;stroke:none">
-            <desc
-               id="desc3508">P2P cryptocurrency.</desc>
-            <title
-               id="title3506">Bitcoin</title>
+           <title>Bitcoin</title>
+           <desc>P2P cryptocurrency.</desc>
+
           </rect>
           <rect
              y="-2133.418"
@@ -978,15 +1029,17 @@
          id="grupo-info4"
          transform="translate(1413.9999,80)">
         <path
-           style="fill:none;stroke:#828282;stroke-width:1.59877348px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#828282;stroke-width:1.59877348px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
            d="m -884.01956,-2261.1371 197.05314,-333.8954 165.20325,0"
            id="path4008-2-4"
            inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccc" />
+           sodipodi:nodetypes="ccc">
+           <set attributeName="stroke-opacity" to="1" begin="columna08.mouseover" end="columna08.mouseout"/>
+           </path>
         <text
            inkscape:label="info04-text"
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
            x="-510.0611"
            y="-2603.832"
            id="info04-text"
@@ -994,22 +1047,26 @@
              sodipodi:role="line"
              id="tspan4130-0-8-3"
              x="-510.0611"
-             y="-2603.832">Start of current global financial crisis</tspan></text>
+             y="-2603.832">Start of current global financial crisis</tspan>
+             <set attributeName="fill-opacity" to="1" begin="columna08.mouseover" end="columna08.mouseout"/>
+             </text>
       </g>
       <g
          inkscape:label="#grupo-info2"
          id="grupo-info2"
          transform="translate(504.99995,80)">
         <path
-           style="fill:none;stroke:#828282;stroke-width:1.59877348px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#828282;stroke-width:1.59877348px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
            d="m -884.01956,-2261.1371 197.05314,-333.8954 165.20325,0"
            id="path4008-2-7"
            inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccc" />
+           sodipodi:nodetypes="ccc">
+           <set attributeName="stroke-opacity" to="1" begin="columna99.mouseover" end="columna99.mouseout"/>
+           </path>
         <text
            inkscape:label="info02-text"
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
            x="-510.0611"
            y="-2603.832"
            id="info02-text"
@@ -1017,22 +1074,26 @@
              sodipodi:role="line"
              id="tspan4130-0-8-5"
              x="-510.0611"
-             y="-2603.832">Neal Stephenson publishes Cryptonomicon</tspan></text>
+             y="-2603.832">Neal Stephenson publishes Cryptonomicon</tspan>
+             <set attributeName="fill-opacity" to="1" begin="columna99.mouseover" end="columna99.mouseout"/>
+             </text>
       </g>
       <g
          inkscape:label="#grupo-info3"
          id="grupo-info3"
          transform="translate(706.99995,80)">
         <path
-           style="fill:none;stroke:#828282;stroke-width:1.59877348px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:none;stroke:#828282;stroke-width:1.59877348px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
            d="m -884.01956,-2261.1371 197.05314,-333.8954 165.20325,0"
            id="path4008-2-0"
            inkscape:connector-curvature="0"
-           sodipodi:nodetypes="ccc" />
+           sodipodi:nodetypes="ccc">
+           <set attributeName="stroke-opacity" to="1" begin="columna01.mouseover" end="columna01.mouseout"/>
+           </path>
         <text
            inkscape:label="info03-text"
            xml:space="preserve"
-           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0;stroke:none;font-family:Museo Slab;-inkscape-font-specification:Museo Slab"
            x="-510.0611"
            y="-2603.832"
            id="info03-text"
@@ -1040,7 +1101,9 @@
              sodipodi:role="line"
              id="tspan4130-0-8-59"
              x="-510.0611"
-             y="-2603.832">September 11 terrorist attacks</tspan></text>
+             y="-2603.832">September 11 terrorist attacks</tspan>
+             <set attributeName="fill-opacity" to="1" begin="columna01.mouseover" end="columna01.mouseout"/>
+             </text>
       </g>
     </g>
   </g>
